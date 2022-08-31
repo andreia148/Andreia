@@ -1,5 +1,9 @@
-database
+database:
 user:andreia
 password:123
 server
 port:8080
+host: "localhost"
+email:
+user: andreia.sartore@hotmail.com
+password: 21
